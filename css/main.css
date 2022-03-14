@@ -1,8 +1,2 @@
-.images {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-img:hover {
-    transform: scale(97%);
-}
+.cirkle img {
+    clip-path:circle(30%)
