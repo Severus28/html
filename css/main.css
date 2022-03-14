@@ -7,6 +7,6 @@
     position: absolute;
 }
 .blend h1 {
-    font-size: 90px;
+    font-size: 80px;
     mix-blend-mode: overlay;
 }
