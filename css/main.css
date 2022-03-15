@@ -27,3 +27,17 @@ body {
     padding-left: 0;
     margin-bottom: 0;
 }
+
+.navbar-menu li {
+    display: inline-block;
+}
+
+.navbar-menu li a {
+    display: block;
+    color:#000;
+    opacity: 0.6;
+    text-decoration: none;
+    padding: 10px;
+    transition: all .07s ease-in-out;
+    font-size: 18px;
+}
