@@ -61,22 +61,3 @@ body {
     box-shadow: 0 4px 6px rgba(255, 127, 80, .2);
     transition: all .1s ease-out-in;
 }
-
-.callback:hover {
-    transform: scale(1.04);
-    color: #fff;
-    box-shadow: 0 9px 9px rgba(255, 127, 80, .5);
-}
-
-.navbar-brand {
-    font-weight: 700;
-    font-size: 26px;
-    text-decoration: none;
-    color:#000;
-    transition: all .07s ease-in-out;
-    padding-left: 50px;
-}
-
-.navbar-brand:hover {
-    color: coral;
-}
